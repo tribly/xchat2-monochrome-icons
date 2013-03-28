@@ -1,3 +1,9 @@
+xchat2-monochrome-icons
+=======================
+
+Some xchat2 icons for a monochrome theme.
+
+
 # Install
 I use **Archlinux**, so if the path may differ in your distro, try to
 figure it out.
