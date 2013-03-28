@@ -1,4 +1,4 @@
-xchat2-monochrome-icons
+XChat2 monochrome icons
 =======================
 
 Some xchat2 icons for a monochrome theme.
